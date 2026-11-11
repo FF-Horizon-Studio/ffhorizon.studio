@@ -19,7 +19,8 @@ Pagine statiche in HTML e CSS: nessun cookie, nessuna statistica, nessun servizi
 
 ## DNS (Hostinger)
 
-Un solo record: `CNAME` con nome `app` che punta a `fforesta-dev.github.io`.
+Un solo record: `CNAME` con nome `app` che punta a `ff-horizon-studio.github.io` (dall'11/11/2026,
+quando il repository è passato all'organizzazione FF-Horizon-Studio; prima `fforesta-dev.github.io`).
 Gli altri record del dominio (posta compresa) non riguardano questo sito.
 
 ## Regole
